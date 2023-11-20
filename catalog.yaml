@@ -1,0 +1,15 @@
+---
+description: "General Utility Archetypes"
+authors: ["Jimmie Fulton <jimmie.fulton@naxgrp.com>"]
+languages: []
+frameworks: []
+tags: []
+
+requires:
+  archetect: "2.0.0-ALPHA.3"
+
+entries:
+  - archetype:
+      description: ".gitgnore"
+      source: https://github.com/archetect/dot-gitignore.archetype.git
+
