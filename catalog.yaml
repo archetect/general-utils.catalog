@@ -12,4 +12,6 @@ entries:
   - archetype:
       description: ".gitgnore"
       source: https://github.com/archetect/dot-gitignore.archetype.git
-
+  - archetype:
+      description: "Postman GraphQL Import Generator"
+      source: https://github.com/archetect/postman-graphql-import-generator.archetype.git
